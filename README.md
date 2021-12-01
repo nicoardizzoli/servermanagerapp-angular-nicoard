@@ -16,10 +16,10 @@ Angular Training - Server Manager App
 
 Screenshots
 
-![ScreenShot](/src/assets/images/screenshots/capture1.jpg)
+![ScreenShot](/src/assets/images/screenshots/capture1.png)
 <br>
-![ScreenShot](/src/assets/images/screenshots/capture2.jpg)
+![ScreenShot](/src/assets/images/screenshots/capture2.png)
 <br>
-![ScreenShot](/src/assets/images/screenshots/capture3.jpg)
+![ScreenShot](/src/assets/images/screenshots/capture3.png)
 <br>
-![ScreenShot](/src/assets/images/screenshots/capture4.jpg)
+![ScreenShot](/src/assets/images/screenshots/capture4.png)
